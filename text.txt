@@ -1,0 +1,31 @@
+Hi All,
+
+Hope today's Git session was useful.
+
+Here are the next steps for everyone:
+
+Refer to the document VLabs Project Configuration - Part 1 for instructions on how to get started with gitlab / git setup
+Create a new repository with your employee id
+Commit the codebase to the new repository using git
+Practice the commands given in Chapter 1-1, 1-2 and 1-3 in the Pro Git book (https://git-scm.com/book/en/v2) before moving on. These commands need to be performed in your specific repository only.
+Also here are some useful links for reading further:
+https://help.github.com/
+https://help.github.com/articles/fork-a-repo/ 
+https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/ 
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging 
+https://help.github.com/articles/resolving-a-merge-conflict-from-the-command-line/
+Please let me know in case of any queries and cascade this email in case I have missed out anyone.
+
+Happy Learning !!
+
+Best Regards,
+Ekta Verma
+
+Mumbai
+
+
++========================================================================+
+This email is confidential and may be privileged. If you have received it
+in error, please notify us immediately and then delete it. Please do not
+copy it, disclose its contents or use it for any purpose.
++========================================================================+
